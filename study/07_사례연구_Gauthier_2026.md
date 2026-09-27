@@ -1,6 +1,6 @@
-# 6장. 사례연구: Gauthier 외 (2026), "The political effects of X's feed algorithm"
+# 7장. 사례연구: Gauthier 외 (2026), "The political effects of X's feed algorithm"
 
-## 6.1 왜 이 연구를 사례로 삼는가
+## 7.1 왜 이 연구를 사례로 삼는가
 
 리뷰 [[1](#ref-1)]의 99번 참고문헌이다. 리뷰 본문에서 이 연구 [[54](#ref-54)]는 Meta 2020년 연구 [[33](#ref-33), [34](#ref-34), [35](#ref-35)]의 "효과 없음"과 "겉보기에 어긋나는" 결과를 냈고, 그 어긋남을 풀어 주는 비대칭성 해석을 제공하는 것으로 소개된다. 초보 연구자에게 이 연구가 중요한 이유는 다음과 같다.
 
@@ -15,11 +15,11 @@
 | DOI | 10.1038/s41586-026-10098-2 |
 | 사전등록 | AEA RCT Registry, AEARCTR-0011464 |
 
-## 6.2 핵심 아이디어
+## 7.2 핵심 아이디어
 
 X는 사용자에게 두 개의 홈 탭을 준다. "For You"는 알고리즘 추천 피드로, 추천 콘텐츠를 보여주고, 게시물 순서를 바꾸며, 팔로우하지 않은 계정의 글을 끼워 넣는다. "Following"은 역시간순 추천 피드로, 팔로우한 계정의 글만 최신순으로 보여준다. 연구팀은 이 두 탭을 처치와 대조로 삼아, 참가자에게 돈을 주고 특정 탭을 약 7주 동안 유지하게 했다 [[54](#ref-54)].
 
-## 6.3 모집과 표본
+## 7.3 모집과 표본
 
 - YouGov 미국 패널에서 "한 달에 몇 번 이상" X를 쓴다고 답한 사람을 모집했다.
 - 표본은 백인 78%, 남성 52%, 4년제 대졸 이상 58%로, 일반 인구보다 치우쳐 있다 [[54](#ref-54)].
@@ -30,7 +30,7 @@ X는 사용자에게 두 개의 홈 탭을 준다. "For You"는 알고리즘 추
 | 사전 설문 완료 | 6,043 |
 | 사후 설문까지 완료 (분석 표본) | 4,965 |
 
-## 6.4 시기
+## 7.4 시기
 
 | 단계 | 시점 |
 |---|---|
@@ -40,7 +40,7 @@ X는 사용자에게 두 개의 홈 탭을 준다. "For You"는 알고리즘 추
 
 2023년 여름은 Elon Musk의 인수(2022년 10월) 뒤이고, 2024년 대선 전이다. 결론은 이 시점에 한정된다 [[54](#ref-54)].
 
-## 6.5 무작위 배정 설계
+## 7.5 무작위 배정 설계
 
 참가자를 **원래 쓰던 피드**로 먼저 나눈 뒤(층화), 각 집단 안에서 절반은 그대로 두고 절반은 반대 탭으로 옮겼다 [[54](#ref-54)].
 
@@ -51,7 +51,7 @@ X는 사용자에게 두 개의 홈 탭을 준다. "For You"는 알고리즘 추
 
 이 2×2 설계 덕분에 "알고리즘 추천 켜기" 효과와 "알고리즘 추천 끄기" 효과를 따로 추정할 수 있다. 각 집단 안에서 "유지" 집단이 대조군이 된다.
 
-## 6.6 처치와 지시 이행 관리
+## 7.6 처치와 지시 이행 관리
 
 - 배정된 탭을 사후 설문 때까지 유지하라고 지시했다.
 - 유지하고 사후 설문을 마치면 2,500포인트(2.5달러)를 지급했다.
@@ -65,7 +65,7 @@ X는 사용자에게 두 개의 홈 탭을 준다. "For You"는 알고리즘 추
 
 주 분석은 배정 기준(intention-to-treat)이고, 지시 이행자 효과(LATE)는 부록에 보고했다. ITT를 주 결과로 삼는 이유는 지시를 따랐는지 여부가 무작위가 아니기 때문이다. 따른 사람만 분석하면 무작위 배정의 이점을 잃는다 [[54](#ref-54)].
 
-## 6.7 브라우저 확장 프로그램
+## 7.7 브라우저 확장 프로그램
 
 - 모두에게 의무로 한 것이 아니라, 추가 보상을 걸고 원하는 사람만 설치했다.
 - 데스크톱 Chrome에서 각 피드 설정의 처음 100개 게시물을 캡처해 참가자 기기에 파일로 저장하고, 참가자가 업로드했다.
@@ -78,7 +78,7 @@ X는 사용자에게 두 개의 홈 탭을 준다. "For You"는 알고리즘 추
 
 이 데이터가 "두 피드의 내용이 실제로 어떻게 다른가"를 보여 주는 근거다.
 
-## 6.8 측정 항목
+## 7.8 측정 항목
 
 **사전 설문**: 인구통계, X 사용 습관, 정당 지지, 정서적 양극화.
 
@@ -92,7 +92,7 @@ X는 사용자에게 두 개의 홈 탭을 준다. "For You"는 알고리즘 추
 
 **피드 콘텐츠 분류**: Llama 3로 게시물을 보수/진보, 그리고 정치 활동가/연예/뉴스 매체로 분류했다. 단어 빈도 기반 기계학습 분류기와 사람 코더로 검증했다. 이것은 리뷰 [[1](#ref-1)]의 걸림돌 3(도구 검증 부족)에 대한 모범적 대응이다 [[54](#ref-54)].
 
-## 6.9 결과
+## 7.9 결과
 
 ### 역시간순 추천에서 알고리즘 추천으로 전환한 집단
 
@@ -121,13 +121,13 @@ X는 사용자에게 두 개의 홈 탭을 준다. "For You"는 알고리즘 추
 
 알고리즘 추천은 참여를 끌어내는 우파 활동가의 글을 밀어주고 전통 언론의 글은 뒤로 미뤘다 [[54](#ref-54)].
 
-## 6.10 비대칭이 생긴 이유
+## 7.10 비대칭이 생긴 이유
 
 알고리즘 추천 피드는 참가자가 몰랐던 보수 활동가 계정을 보여줬고, 참가자는 그 계정들을 팔로우했다. 알고리즘 추천을 끄면 역시간순 추천 피드로 돌아가지만, 이미 팔로우한 계정은 그대로 남아 있으므로 피드 내용이 원래대로 돌아가지 않는다. 저자들은 알고리즘의 정치적 영향이 "무엇을 보여주느냐"보다 "누구를 팔로우하게 만드느냐"를 통해 오래 이어진다고 해석한다 [[54](#ref-54)].
 
 리뷰 [[1](#ref-1)]는 이 해석으로 Meta 연구와의 어긋남을 푼다. "알고리즘을 끄는 것이 효과를 보이지 않는 것은 알고리즘이 무관해서가 아니라, 그 영향이 이미 사용자의 피드에 스며들었기 때문일 수 있다." 이것은 5장에서 설명한 피드백 루프와 "취향은 알고리즘과 무관하게 생긴 것이 아니다"라는 논지의 실증적 예이기도 하다. 역시간순 추천이 중립적 기준선이 아닌 이유가 바로 이것이다 [[1](#ref-1), [43](#ref-43)].
 
-## 6.11 방법론 비평 연습
+## 7.11 방법론 비평 연습
 
 리뷰 [[1](#ref-1)]가 지적한 한계를 이 연구에 적용해 보자.
 
@@ -143,7 +143,7 @@ X는 사용자에게 두 개의 홈 탭을 준다. "For You"는 알고리즘 추
 
 이 연구가 튼튼한 이유는 리뷰가 요구하는 것을 대부분 갖췄기 때문이다. 무작위 배정, 사전등록, 노출과 효과의 분리 측정, 도구 검증, 결론의 한정. 약한 부분은 구조적 제약이다. 플랫폼 협력 없이는 지시 이행을 강제할 수 없고, 기준선을 X가 주는 것 말고는 만들 수 없다 [[1](#ref-1), [54](#ref-54)].
 
-## 6.12 이 연구가 리뷰의 논지에 미치는 영향
+## 7.12 이 연구가 리뷰의 논지에 미치는 영향
 
 리뷰 [[1](#ref-1)]는 "알고리즘이 모든 것을 결정한다"는 관점에 반론을 펴지만, 이 연구 [[54](#ref-54)]는 알고리즘이 정치 태도를 바꿀 수 있다는 것을 보였다. 리뷰는 이를 어떻게 다루는가.
 
@@ -155,14 +155,14 @@ X는 사용자에게 두 개의 홈 탭을 준다. "For You"는 알고리즘 추
 
 ## 참고문헌
 
-<a name="ref-1"></a>[1] Hosseinmardi, H., Dutta, U., Rothschild, D., & Watts, D. J. (2026). Algorithmic systems, human agency and the future of platform research. *Nature Computational Science, 6*, 923–938. https://doi.org/10.1038/s43588-026-01038-1
+<a name="ref-1"></a>[[1](#ref-1)] Hosseinmardi, H., Dutta, U., Rothschild, D., & Watts, D. J. (2026). Algorithmic systems, human agency and the future of platform research. *Nature Computational Science, 6*, 923–938. https://doi.org/10.1038/s43588-026-01038-1
 
-<a name="ref-33"></a>[33] Guess, A. M., Malhotra, N., Pan, J., et al. (2023). How do social media feed algorithms affect attitudes and behavior in an election campaign? *Science, 381*(6656), 398–404. https://doi.org/10.1126/science.abp9364
+<a name="ref-33"></a>[[33](#ref-33)] Guess, A. M., Malhotra, N., Pan, J., et al. (2023). How do social media feed algorithms affect attitudes and behavior in an election campaign? *Science, 381*(6656), 398–404. https://doi.org/10.1126/science.abp9364
 
-<a name="ref-34"></a>[34] Guess, A. M., Malhotra, N., Pan, J., et al. (2023). Reshares on social media amplify political news but do not detectably affect beliefs or opinions. *Science, 381*(6656), 404–408. https://doi.org/10.1126/science.add8424
+<a name="ref-34"></a>[[34](#ref-34)] Guess, A. M., Malhotra, N., Pan, J., et al. (2023). Reshares on social media amplify political news but do not detectably affect beliefs or opinions. *Science, 381*(6656), 404–408. https://doi.org/10.1126/science.add8424
 
-<a name="ref-35"></a>[35] Nyhan, B., Settle, J., Thorson, E., et al. (2023). Like-minded sources on Facebook are prevalent but not polarizing. *Nature, 620*, 137–144. https://doi.org/10.1038/s41586-023-06297-w
+<a name="ref-35"></a>[[35](#ref-35)] Nyhan, B., Settle, J., Thorson, E., et al. (2023). Like-minded sources on Facebook are prevalent but not polarizing. *Nature, 620*, 137–144. https://doi.org/10.1038/s41586-023-06297-w
 
-<a name="ref-43"></a>[43] Stray, J., Thorburn, L., & Bengani, P. (2023). Making amplification measurable. *Tech Policy Press*. https://www.techpolicy.press/making-amplification-measurable/
+<a name="ref-43"></a>[[43](#ref-43)] Stray, J., Thorburn, L., & Bengani, P. (2023). Making amplification measurable. *Tech Policy Press*. https://www.techpolicy.press/making-amplification-measurable/
 
-<a name="ref-54"></a>[54] Gauthier, G., Hodler, R., Widmer, P., & Zhuravskaya, E. (2026). The political effects of X's feed algorithm. *Nature, 652*, 416–423. https://doi.org/10.1038/s41586-026-10098-2
+<a name="ref-54"></a>[[54](#ref-54)] Gauthier, G., Hodler, R., Widmer, P., & Zhuravskaya, E. (2026). The political effects of X's feed algorithm. *Nature, 652*, 416–423. https://doi.org/10.1038/s41586-026-10098-2
