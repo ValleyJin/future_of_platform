@@ -7,4 +7,4 @@ Hosseinmardi, Dutta, Rothschild & Watts (2026), *"Algorithmic systems, human age
 ## 목차
 
 - [study/README.md](study/README.md) — 교재 소개, 목차, 읽는 순서
-- 1장부터 11장까지는 `study/` 폴더의 각 파일을 보십시오.
+- 1장부터 12장까지는 `study/` 폴더의 각 파일을 보십시오.
