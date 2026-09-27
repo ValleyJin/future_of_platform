@@ -155,14 +155,14 @@ X는 사용자에게 두 개의 홈 탭을 준다. "For You"는 알고리즘 추
 
 ## 참고문헌
 
-<a name="ref-1"></a>[[1](#ref-1)] Hosseinmardi, H., Dutta, U., Rothschild, D., & Watts, D. J. (2026). Algorithmic systems, human agency and the future of platform research. *Nature Computational Science, 6*, 923–938. https://doi.org/10.1038/s43588-026-01038-1
+<a name="ref-1"></a>[1] Hosseinmardi, H., Dutta, U., Rothschild, D., & Watts, D. J. (2026). Algorithmic systems, human agency and the future of platform research. *Nature Computational Science, 6*, 923–938. https://doi.org/10.1038/s43588-026-01038-1
 
-<a name="ref-33"></a>[[33](#ref-33)] Guess, A. M., Malhotra, N., Pan, J., et al. (2023). How do social media feed algorithms affect attitudes and behavior in an election campaign? *Science, 381*(6656), 398–404. https://doi.org/10.1126/science.abp9364
+<a name="ref-33"></a>[33] Guess, A. M., Malhotra, N., Pan, J., et al. (2023). How do social media feed algorithms affect attitudes and behavior in an election campaign? *Science, 381*(6656), 398–404. https://doi.org/10.1126/science.abp9364
 
-<a name="ref-34"></a>[[34](#ref-34)] Guess, A. M., Malhotra, N., Pan, J., et al. (2023). Reshares on social media amplify political news but do not detectably affect beliefs or opinions. *Science, 381*(6656), 404–408. https://doi.org/10.1126/science.add8424
+<a name="ref-34"></a>[34] Guess, A. M., Malhotra, N., Pan, J., et al. (2023). Reshares on social media amplify political news but do not detectably affect beliefs or opinions. *Science, 381*(6656), 404–408. https://doi.org/10.1126/science.add8424
 
-<a name="ref-35"></a>[[35](#ref-35)] Nyhan, B., Settle, J., Thorson, E., et al. (2023). Like-minded sources on Facebook are prevalent but not polarizing. *Nature, 620*, 137–144. https://doi.org/10.1038/s41586-023-06297-w
+<a name="ref-35"></a>[35] Nyhan, B., Settle, J., Thorson, E., et al. (2023). Like-minded sources on Facebook are prevalent but not polarizing. *Nature, 620*, 137–144. https://doi.org/10.1038/s41586-023-06297-w
 
-<a name="ref-43"></a>[[43](#ref-43)] Stray, J., Thorburn, L., & Bengani, P. (2023). Making amplification measurable. *Tech Policy Press*. https://www.techpolicy.press/making-amplification-measurable/
+<a name="ref-43"></a>[43] Stray, J., Thorburn, L., & Bengani, P. (2023). Making amplification measurable. *Tech Policy Press*. https://www.techpolicy.press/making-amplification-measurable/
 
-<a name="ref-54"></a>[[54](#ref-54)] Gauthier, G., Hodler, R., Widmer, P., & Zhuravskaya, E. (2026). The political effects of X's feed algorithm. *Nature, 652*, 416–423. https://doi.org/10.1038/s41586-026-10098-2
+<a name="ref-54"></a>[54] Gauthier, G., Hodler, R., Widmer, P., & Zhuravskaya, E. (2026). The political effects of X's feed algorithm. *Nature, 652*, 416–423. https://doi.org/10.1038/s41586-026-10098-2

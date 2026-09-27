@@ -47,6 +47,6 @@
 
 ## 참고문헌
 
-<a name="ref-1"></a>[[1](#ref-1)] Hosseinmardi, H., Dutta, U., Rothschild, D., & Watts, D. J. (2026). Algorithmic systems, human agency and the future of platform research. *Nature Computational Science, 6*, 923–938. https://doi.org/10.1038/s43588-026-01038-1
+<a name="ref-1"></a>[1] Hosseinmardi, H., Dutta, U., Rothschild, D., & Watts, D. J. (2026). Algorithmic systems, human agency and the future of platform research. *Nature Computational Science, 6*, 923–938. https://doi.org/10.1038/s43588-026-01038-1
 
-<a name="ref-54"></a>[[54](#ref-54)] Gauthier, G., Hodler, R., Widmer, P., & Zhuravskaya, E. (2026). The political effects of X's feed algorithm. *Nature, 652*, 416–423. https://doi.org/10.1038/s41586-026-10098-2
+<a name="ref-54"></a>[54] Gauthier, G., Hodler, R., Widmer, P., & Zhuravskaya, E. (2026). The political effects of X's feed algorithm. *Nature, 652*, 416–423. https://doi.org/10.1038/s41586-026-10098-2

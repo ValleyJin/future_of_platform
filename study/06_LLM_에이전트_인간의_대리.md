@@ -114,38 +114,38 @@
 
 ## 참고문헌
 
-<a name="ref-1"></a>[[1](#ref-1)] Hosseinmardi, H., Dutta, U., Rothschild, D., & Watts, D. J. (2026). Algorithmic systems, human agency and the future of platform research. *Nature Computational Science, 6*, 923–938. https://doi.org/10.1038/s43588-026-01038-1
+<a name="ref-1"></a>[1] Hosseinmardi, H., Dutta, U., Rothschild, D., & Watts, D. J. (2026). Algorithmic systems, human agency and the future of platform research. *Nature Computational Science, 6*, 923–938. https://doi.org/10.1038/s43588-026-01038-1
 
-<a name="ref-12"></a>[[12](#ref-12)] Sandvig, C., Hamilton, K., Karahalios, K., & Langbort, C. (2014). *Auditing algorithms: Research methods for detecting discrimination on internet platforms*. Paper presented at "Data and Discrimination: Converting Critical Concerns into Productive Inquiry," 64th Annual Meeting of the International Communication Association, Seattle, WA.
+<a name="ref-12"></a>[12] Sandvig, C., Hamilton, K., Karahalios, K., & Langbort, C. (2014). *Auditing algorithms: Research methods for detecting discrimination on internet platforms*. Paper presented at "Data and Discrimination: Converting Critical Concerns into Productive Inquiry," 64th Annual Meeting of the International Communication Association, Seattle, WA.
 
-<a name="ref-39"></a>[[39](#ref-39)] Chen, A. Y., Nyhan, B., Reifler, J., Robertson, R. E., & Wilson, C. (2023). Subscriptions and external links help drive resentful users to alternative and extremist YouTube channels. *Science Advances, 9*(35), eadd8080. https://doi.org/10.1126/sciadv.add8080
+<a name="ref-39"></a>[39] Chen, A. Y., Nyhan, B., Reifler, J., Robertson, R. E., & Wilson, C. (2023). Subscriptions and external links help drive resentful users to alternative and extremist YouTube channels. *Science Advances, 9*(35), eadd8080. https://doi.org/10.1126/sciadv.add8080
 
-<a name="ref-40"></a>[[40](#ref-40)] Haroon, M., Wojcieszak, M., Chhabra, A., Liu, X., Mohapatra, P., & Shafiq, Z. (2023). Auditing YouTube's recommendation system for ideologically congenial, extreme, and problematic recommendations. *Proceedings of the National Academy of Sciences, 120*(50), e2213020120. https://doi.org/10.1073/pnas.2213020120
+<a name="ref-40"></a>[40] Haroon, M., Wojcieszak, M., Chhabra, A., Liu, X., Mohapatra, P., & Shafiq, Z. (2023). Auditing YouTube's recommendation system for ideologically congenial, extreme, and problematic recommendations. *Proceedings of the National Academy of Sciences, 120*(50), e2213020120. https://doi.org/10.1073/pnas.2213020120
 
-<a name="ref-45"></a>[[45](#ref-45)] Hosseinmardi, H., Ghasemian, A., Rivera-Lanas, M., Horta Ribeiro, M., West, R., & Watts, D. J. (2024). Causally estimating the effect of YouTube's recommender system using counterfactual bots. *Proceedings of the National Academy of Sciences, 121*(8), e2313377121. https://doi.org/10.1073/pnas.2313377121
+<a name="ref-45"></a>[45] Hosseinmardi, H., Ghasemian, A., Rivera-Lanas, M., Horta Ribeiro, M., West, R., & Watts, D. J. (2024). Causally estimating the effect of YouTube's recommender system using counterfactual bots. *Proceedings of the National Academy of Sciences, 121*(8), e2313377121. https://doi.org/10.1073/pnas.2313377121
 
-<a name="ref-47"></a>[[47](#ref-47)] Wang, S., Huang, S., Zhou, A., & Metaxa, D. (2024). Lower quantity, higher quality: Auditing news content and user perceptions on Twitter/X algorithmic versus chronological timelines. *Proceedings of the ACM on Human-Computer Interaction, 8*(CSCW), Article 57.
+<a name="ref-47"></a>[47] Wang, S., Huang, S., Zhou, A., & Metaxa, D. (2024). Lower quantity, higher quality: Auditing news content and user perceptions on Twitter/X algorithmic versus chronological timelines. *Proceedings of the ACM on Human-Computer Interaction, 8*(CSCW), Article 57.
 
-<a name="ref-57"></a>[[57](#ref-57)] Park, J. S., O'Brien, J. C., Cai, C. J., Morris, M. R., Liang, P., & Bernstein, M. S. (2023). Generative agents: Interactive simulacra of human behavior. In *Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology* (Article 2, pp. 1–22). ACM. https://doi.org/10.1145/3586183.3606763
+<a name="ref-57"></a>[57] Park, J. S., O'Brien, J. C., Cai, C. J., Morris, M. R., Liang, P., & Bernstein, M. S. (2023). Generative agents: Interactive simulacra of human behavior. In *Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology* (Article 2, pp. 1–22). ACM. https://doi.org/10.1145/3586183.3606763
 
-<a name="ref-58"></a>[[58](#ref-58)] Argyle, L. P., Busby, E. C., Fulda, N., Gubler, J. R., Rytting, C., & Wingate, D. (2023). Out of one, many: Using language models to simulate human samples. *Political Analysis, 31*(3), 337–351. https://doi.org/10.1017/pan.2023.2
+<a name="ref-58"></a>[58] Argyle, L. P., Busby, E. C., Fulda, N., Gubler, J. R., Rytting, C., & Wingate, D. (2023). Out of one, many: Using language models to simulate human samples. *Political Analysis, 31*(3), 337–351. https://doi.org/10.1017/pan.2023.2
 
-<a name="ref-59"></a>[[59](#ref-59)] Horton, J. J. (2023). *Large language models as simulated economic agents: What can we learn from homo silicus?* (NBER Working Paper No. 31122). National Bureau of Economic Research. https://doi.org/10.3386/w31122
+<a name="ref-59"></a>[59] Horton, J. J. (2023). *Large language models as simulated economic agents: What can we learn from homo silicus?* (NBER Working Paper No. 31122). National Bureau of Economic Research. https://doi.org/10.3386/w31122
 
-<a name="ref-60"></a>[[60](#ref-60)] Larooij, M., & Törnberg, P. (2025). *Can we fix social media? Testing prosocial interventions using generative social simulation*. arXiv. https://arxiv.org/abs/2508.03385
+<a name="ref-60"></a>[60] Larooij, M., & Törnberg, P. (2025). *Can we fix social media? Testing prosocial interventions using generative social simulation*. arXiv. https://arxiv.org/abs/2508.03385
 
-<a name="ref-61"></a>[[61](#ref-61)] Wang, C., Liu, Z., Yang, D., & Chen, X. (2025). Decoding echo chambers: LLM-powered simulations revealing polarization in social networks. In *Proceedings of the 31st International Conference on Computational Linguistics* (pp. 3913–3923). Association for Computational Linguistics.
+<a name="ref-61"></a>[61] Wang, C., Liu, Z., Yang, D., & Chen, X. (2025). Decoding echo chambers: LLM-powered simulations revealing polarization in social networks. In *Proceedings of the 31st International Conference on Computational Linguistics* (pp. 3913–3923). Association for Computational Linguistics.
 
-<a name="ref-62"></a>[[62](#ref-62)] Chan, A., et al. (2024). Redefining research crowdsourcing: Incorporating human feedback with LLM-powered digital twins. In *Extended Abstracts of the CHI Conference on Human Factors in Computing Systems*. ACM.
+<a name="ref-62"></a>[62] Chan, A., et al. (2024). Redefining research crowdsourcing: Incorporating human feedback with LLM-powered digital twins. In *Extended Abstracts of the CHI Conference on Human Factors in Computing Systems*. ACM.
 
-<a name="ref-69"></a>[[69](#ref-69)] Brown, M. A., Bisbee, J., Lai, A., Bonneau, R., Nagler, J., & Tucker, J. A. (2022). *Echo chambers, rabbit holes, and algorithmic bias: How YouTube recommends content to real users*. SSRN. https://doi.org/10.2139/ssrn.4114905
+<a name="ref-69"></a>[69] Brown, M. A., Bisbee, J., Lai, A., Bonneau, R., Nagler, J., & Tucker, J. A. (2022). *Echo chambers, rabbit holes, and algorithmic bias: How YouTube recommends content to real users*. SSRN. https://doi.org/10.2139/ssrn.4114905
 
-<a name="ref-76"></a>[[76](#ref-76)] Ohme, J., et al. (2024). Digital trace data collection for social media effects research: APIs, data donation, and (screen) tracking. *Communication Methods and Measures, 18*(2), 124–141. https://doi.org/10.1080/19312458.2023.2181319
+<a name="ref-76"></a>[76] Ohme, J., et al. (2024). Digital trace data collection for social media effects research: APIs, data donation, and (screen) tracking. *Communication Methods and Measures, 18*(2), 124–141. https://doi.org/10.1080/19312458.2023.2181319
 
-<a name="ref-81"></a>[[81](#ref-81)] Törnberg, P., Valeeva, D., Uitermark, J., & Bail, C. (2023). *Simulating social media using large language models to evaluate alternative news feed algorithms*. arXiv. https://arxiv.org/abs/2310.05984
+<a name="ref-81"></a>[81] Törnberg, P., Valeeva, D., Uitermark, J., & Bail, C. (2023). *Simulating social media using large language models to evaluate alternative news feed algorithms*. arXiv. https://arxiv.org/abs/2310.05984
 
-<a name="ref-82"></a>[[82](#ref-82)] Bisbee, J., Clinton, J. D., Dorff, C., Kenkel, B., & Larson, J. M. (2024). Synthetic replacements for human survey data? The perils of large language models. *Political Analysis, 32*(4), 401–416. https://doi.org/10.1017/pan.2024.5
+<a name="ref-82"></a>[82] Bisbee, J., Clinton, J. D., Dorff, C., Kenkel, B., & Larson, J. M. (2024). Synthetic replacements for human survey data? The perils of large language models. *Political Analysis, 32*(4), 401–416. https://doi.org/10.1017/pan.2024.5
 
-<a name="ref-83"></a>[[83](#ref-83)] Li, L., et al. (2024). *Political-LLM: Large language models in political science*. arXiv. https://arxiv.org/abs/2412.06864
+<a name="ref-83"></a>[83] Li, L., et al. (2024). *Political-LLM: Large language models in political science*. arXiv. https://arxiv.org/abs/2412.06864
 
-<a name="ref-84"></a>[[84](#ref-84)] Wang, Z. Z., et al. (2026). *How well does agent development reflect real-world work?* arXiv. https://doi.org/10.48550/arXiv.2603.01203
+<a name="ref-84"></a>[84] Wang, Z. Z., et al. (2026). *How well does agent development reflect real-world work?* arXiv. https://doi.org/10.48550/arXiv.2603.01203
